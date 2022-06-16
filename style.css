@@ -55,7 +55,7 @@ body.Fixed {
 
 /* ヘッダー ------------------------------------------------------------ */
 #Header {
-	width: 100%;
+	width: 90%;
 	text-align: center;
 	z-index: 99;
 	position: absolute;
@@ -92,7 +92,7 @@ body.Fixed {
 
 /* ロゴ --------------------------------------------------------------- */
 #Logo {
-	width: 100%;
+	width: 90%;
 	text-align: center;
 	padding: 50px 0px 50px 0px;
 	margin: 50px;
